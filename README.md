@@ -1,8 +1,13 @@
--- Hi, I’m CasualDev
---
---Im Currently learning LuaU and I'm getting pretty good at designing roblox UIs.
---
---Contact me on discord if cool: CasualDev#2366
---
+Hello I'm CasualDev!
+I mostly do LuaU stuff but also have Python and Html/Css projects
+------------------------------------------------------------------
+I'm good at: 
+Roblox Ui/Ux design
+Python/discord.py
+html/css
 
-im pro
+https://casualdev.ml
+https://e-z.bio/casualdev
+https://visionbio.me/casual
+https://discord.gg/varity
+
